@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/next-test/_next/static/chunks/ff1a16fafef87110.js","/next-test/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-3:I[37457,["/next-test/_next/static/chunks/ff1a16fafef87110.js","/next-test/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-0:{"buildId":"HMojqr_DAWJRj5Cb_oDLc","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["/lingoapp/_next/static/chunks/ff1a16fafef87110.js","/lingoapp/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/lingoapp/_next/static/chunks/ff1a16fafef87110.js","/lingoapp/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+0:{"buildId":"eyeGySG4pYFRfajULSio9","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
